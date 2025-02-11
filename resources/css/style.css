@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+div {
+    border: 3px solid blueviolet;
+}
+
+.heading {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
