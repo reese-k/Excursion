@@ -1,20 +1,63 @@
 html {
     background-color: black;
-    font-family: Verdana;
     color: white;
     text-align: center;
-}
-
-div {
-    border: 3px solid blueviolet;
 }
 
 .heading {
     font-size: 50px;
     font-weight: normal;
+    font-family: Verdana;
 }
 
-.download {
+a{
     color: aquamarine;
     font-size: 16px;
+    font-family: Verdana;
+}
+
+.guide {
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana;
+} 
+
+.recommends {
+    font-size: 21px;
+    color: gray;
+    font-family: Verdana;
+}
+
+.phone img {
+    margin-top: 20px;
+}
+
+.phone p{
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana;
+}
+
+footer{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+}
+
+i {
+    display: flex;
+    flex-direction: column;
+    color: gray;
+    align-items: center;
+    align-content: center;
+    padding-right: 10px;
+    padding-top: 5px;
+
+}
+
+footer p{
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+    font-weight: 300;
 }
