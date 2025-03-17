@@ -2,6 +2,7 @@ html {
     background-color: black;
     color: white;
     text-align: center;
+    overflow-x: hidden;
 }
 
 .heading {
@@ -26,6 +27,12 @@ a{
     font-size: 21px;
     color: gray;
     font-family: Verdana;
+}
+
+.camp {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
 }
 
 .phone img {
@@ -61,3 +68,5 @@ footer p{
     font-size: 21px;
     font-weight: 300;
 }
+
+
