@@ -2,7 +2,8 @@ html {
     background-color: black;
     color: white;
     text-align: center;
-    overflow-x: hidden;
+    overflow-x: hidden!important;
+    width: auto!important;
 }
 
 .heading {
