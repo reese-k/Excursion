@@ -3,7 +3,8 @@ html {
     color: white;
     text-align: center;
     overflow-x: hidden!important;
-    width: auto!important;
+    width: 100%!important;
+
 }
 
 .heading {
