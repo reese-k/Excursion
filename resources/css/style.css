@@ -4,15 +4,12 @@ html {
     text-align: center;
     overflow-x: hidden!important;
     width: 100%!important;
-<<<<<<< HEAD
     margin-left: 0;
 }
 
 body {
     width: 100%;
 }
-=======
->>>>>>> c60ddb8697d4830b64cb9ac096810250ec4a9272
 
 .heading {
     font-size: 50px;
