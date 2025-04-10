@@ -3,7 +3,12 @@ html {
     color: white;
     text-align: center;
     overflow-x: hidden!important;
-    width: auto!important;
+    width: 100%!important;
+    margin-left: 0;
+}
+
+body {
+    width: 100%;
 }
 
 .heading {
@@ -31,7 +36,7 @@ a{
 }
 
 .camp {
-    width: 100%;
+    width: 98%;
     height: auto;
     overflow: hidden;
 }
